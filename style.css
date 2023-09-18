@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(R.jpg) no-repeat center/cover ;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(img/warm.jpg) no-repeat center/cover ;
 }
 
 
@@ -18,15 +18,15 @@ body{
     width: 350px;
     border-radius: 10px;
     padding: 30px 20px;
-    background: url(/img/warm.jpg) no-repeat center/cover;
+    background: url(img/warm.jpg) no-repeat center/cover;
 }
 
 .hot{
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(/img/warm.jpg) no-repeat center/cover ;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(img/warm.jpg) no-repeat center/cover ;
 }
 
 .hot .weather{
-    background: url(/img/warm.jpg) no-repeat center/cover;
+    background: url(img/warm.jpg) no-repeat center/cover;
 }
 .cold{
     background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(/img/winter.jpg) no-repeat center/cover ;
@@ -43,11 +43,11 @@ body{
     background: url(/img/winter.jpg) no-repeat center/cover;
 }
 .warm{
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(/img/warm.jpg) no-repeat center/cover ;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(img/warm.jpg) no-repeat center/cover ;
 }
 
 .warm .weather{
-    background: url(/img/warm.jpg) no-repeat center/cover;
+    background: url(img/warm.jpg) no-repeat center/cover;
 }
 
 .search{
